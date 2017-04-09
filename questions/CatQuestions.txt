@@ -1,0 +1,81 @@
+{ 0 orange
+Question: "I love lasagna!! I can eat 50 bites in 5 seconds. How many bites could I eat in one second?"
+MC1: {answer: "10", correct: true}
+MC2: {answer: "20", correct: false}
+MC3: {answer: "5", correct: false}
+MC4: {answer: "45", correct: false}
+explanation: 50 bites / 5 seconds = 10 bites / 1 second
+}
+{ 1 purple
+Question: "Hi, I'm Lucy! I'm a housecat, but I can run fast - up to 30 miles per hour! If I'm running as fast as I can, how long would it take me to run a distance of 150 miles?"
+MC1: {answer: "5 hours", correct: true}
+MC2: {answer: "4 hours", correct: false}
+MC3: {answer: "50 hours", correct: false}
+MC4: {answer: "0.2 hours", correct: false}
+explanation: 150 distance / 30 miles per hour = 5 hours
+}
+
+{ 2 gray
+Question: "My owner gives me so much yarn to play with. I have 45 feet of it! How many inches of yarn do I have?"
+MC1: {answer: "540 inches", correct: true}
+MC2: {answer: "135 inches", correct: false}
+MC3: {answer: "15 inches", correct: false}
+MC4: {answer: "240 inches", correct: false}
+Explanation: 45 feet * 12 inches/foot = 540 inches
+}
+{ 3 brown
+Question: "This car crashed just a little while ago, so I'm stealing its tire to play with. I can roll the tire 60 feet in 24 seconds. How many feet can I roll it in 36 seconds?"
+MC1: {answer: "90 feet", correct: true}
+MC2: {answer: "40 feet", correct: false}
+MC3: {answer: "50 feet", correct: false}
+MC4: {answer: "110 feet", correct: false}
+explanation: 60 feet/24 seconds = x feet/36 seconds. 24x = 2160, x=90 feet
+}
+{ 4 blue
+Question: "Zzzz... I want to sleep more. I sleep 22 hours a day... How long do I sleep in a week...? zzz..."
+MC1: {answer: "154", correct: true}
+MC2: {answer: "168", correct: false}
+MC3: {answer: "126", correct: false}
+MC4: {answer: "85", correct: false}
+explanation: 22 hours a day * 7 days a week = 154 hours a week
+}
+{ 5 pikachu
+Question: "Pika-pika! I want to catch 150 Pokemon, but I can only catch 6 in one session. How many sessions do I have to play to catch 'em all?"
+MC1: {answer: "25", correct: true}
+MC2: {answer: "18", correct: false}
+MC3: {answer: "20", correct: false}
+MC4: {answer: "4", correct: false}
+explanation: 150 Pokemon / 6 Pokemon per session = 25 sessions to catch 'em all
+}
+{ 6 Cheshire
+Question: "Everyone in this neighborhood is mad! I think I'll share my toadstools with them. If I have 3 toadstools and there are 10 cats here, how much of a toadstool could I share with each cat (decimal form)?"
+MC1: {answer: "0.3 toadstools", correct: true}
+MC2: {answer: "30.0 toadstools", correct: false}
+MC3: {answer: "0.6 toadstools", correct: false}
+MC4: {answer: "0.2 toadstools", correct: false}
+explanation: 3 toadstools / 10 cats = 0.3 toadstools per cat
+}
+{ 7 Fancy
+Question: "I'm so rich, I have $5,000! If I want to buy the highest quality catnip at $25 a bag, how many bags of the catnip could I afford?"
+MC1: {answer: "200 bags", correct: true}
+MC2: {answer: "20 bags", correct: false}
+MC3: {answer: "500 bags", correct: false}
+MC4: {answer: "250 bags", correct: false}
+explanation: $5000 / $25 per bag = 200 bags of catnip
+}
+{ 8 Red
+Question: "I love to roll around in this field of roses, but some of them have thorns! For every 5 roses, there are 15 thorns. If there are 35 roses here, how many total thorns are there?"
+MC1: {answer: "105 thorns", correct: true}
+MC2: {answer: "175 thorns", correct: false}
+MC3: {answer: "200 thorns", correct: false}
+MC4: {answer: "55 thorns", correct: false}
+explanation: 5 roses / 15 thorns = 35 roses, x = 525, x=105 thorns
+}
+{ 9 Green
+Question: "Sir Moneybags works me so hard, but the pay is good! If I make $15.10 an hour and work 45 hours a week, how much money do I make in a week?"
+MC1: {answer: "0.3 toadstools", correct: true}
+MC2: {answer: "30.0 toadstools", correct: false}
+MC3: {answer: "0.6 toadstools", correct: false}
+MC4: {answer: "0.2 toadstools", correct: false}
+explanation: $15.10 an hour * 45 hours a week = $679.50 a week
+}
