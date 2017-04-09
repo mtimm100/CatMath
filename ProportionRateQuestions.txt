@@ -1,0 +1,35 @@
+{
+Question: "How long would it take Mittens the cat to run a distance of 150 miles at 30 miles per hour?"
+MC1: {answer: "5 hours", correct: true}
+MC2: {answer: "4 hours", correct: false}
+MC3: {answer: "50 hours", correct: false}
+MC4: {answer: "0.2 hours", correct: false}
+}
+{
+Question: "Boots the cat can run 1500 feet in 5 seconds. What is Boots' rate in feet per second?"
+MC1: {answer: "15", correct: false}
+MC2: {answer: "30", correct: false}
+MC3: {answer: "55", correct: false}
+MC4: {answer: "300", correct: true}
+}
+{
+Question: "If Tiger the cat runs at a rate of 45 miles per hour for 3 hours, what distance would he have traveled?"
+MC1: {answer: "15 miles", correct: false}
+MC2: {answer: "135 miles", correct: true}
+MC3: {answer: "90 miles", correct: false}
+MC4: {answer: "150 miles", correct: false}
+}
+{
+Question: "Salem the cat has been known to run 60 feet in 24 seconds. How many feet could he travel in 36 seconds?"
+MC1: {answer: "90 feet", correct: true}
+MC2: {answer: "40 feet", correct: false}
+MC3: {answer: "50 feet", correct: false}
+MC4: {answer: "110 feet", correct: false}
+}
+{
+Question: "If Simba can eat 33 treats in 4 minutes, how many treats could he eat in 12 minutes?"
+MC1: {answer: "66", correct: false}
+MC2: {answer: "74", correct: false}
+MC3: {answer: "99", correct: true}
+MC4: {answer: "86", correct: false}
+}
